@@ -16,7 +16,10 @@ end
 
 def my_hash_creator
   
-  my_hash = { key => value }
+  hash_hashing = {
+    key => value 
+    
+  }
   
 
 end
